@@ -62,7 +62,7 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 
 ## 🚫 Double comptes
 :::tip ⚠️
-- **Autorisation** : Non, sauf pour les membres d'une même famille jouant sur la même IP. Preuve via ticket.
+- **Autorisation** : Non, sauf pour les membres d'un même foyer jouant sur la même IP. Une vérification peut être réalisée par les Staffs en jeu et sur Discord.
   :::
 
 ---
@@ -120,18 +120,17 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 
 ## 🧱 Blocs claimables
 :::tip 🔒
-- **Limite par défaut** : Très élevée, possibilité d'augmenter jusqu'à 1,5 million avec un pack ville.
-  :::
+- **Limite par défaut** : 200k blocs. Possibilité d'augmenter jusqu'à 1 Million avec l'achat d'un grade.
 
 ---
 
 ## 💤 AFK
-- **Inactivité** : Mode AFK activé après 30 minutes d'inactivité.
+- **Inactivité** : Mode AFK activé après 30 minutes d'inactivité (Téléportation à la zone AFK au spawn).
 
 ---
 
 ## 🛡️ Grief
-- **Définition** : Construction ou claim à moins de 100 blocs d'un autre joueur sans permission.
+- **Définition** : Construction / Destruction ou claim à moins de 100 blocs d'un autre joueur sans sa permission.
 
 ---
 
@@ -154,5 +153,5 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 
 ## 🎨 Pack de texture
 :::tip 🖼️
-- **Problème de téléchargement** : Allez dans Multijoueur, sélectionnez le serveur, cliquez sur "Modifier", puis activez "Pack de ressource".
+- **Problème de téléchargement** : Soyez sûr d'utiliser la bonne version de Minecraft. Allez dans Multijoueur, sélectionnez le serveur, cliquez sur "Modifier", puis activez "Pack de ressource".
   :::
